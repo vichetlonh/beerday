@@ -1,0 +1,13 @@
+.container{
+    background-color: rgb(244, 244, 244);
+    margin-top: 10px;
+    max-width: 400px;
+    
+}
+#from_up{
+    background-color:  rgb(244, 244, 244);
+}
+input{
+    margin-top: 10px;
+    /* margin-left: 5px; */
+}

@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@300;400;500;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+
+/* #header-text{
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+#logo{
+    width: 100px;
+    height: 80px;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+}
+
+.nav-link:hover{
+    color: rgb(233, 10, 10);
+    box-shadow: 10px 10px 5px lightseagreen;
+    /* width: 150px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    text-align: center; */
+/* } */
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color: rgb(233, 10, 10);
+    box-shadow: 10px 10px 5px lightseagreen;
+   
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+} 
+.search{
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    outline: none;
+    border: 2px solid rgb(248,26,92);
+    margin-right: 35px;
+}
+.btn0{
+    height: 40px;
+    width: 40px;
+    outline: none;
+    border: none;
+    border-radius: 60px;
+    background-color: rgb(248,26,92) ;
+    font-weight: 700;
+    color: white;
+} */
+.main{
+    /* background: url(./img/beer-cover2.jpg) no-repeat; */
+    background-size: cover;
+    height: 30vh;
+    background-position: 50% 50%;
+    width: 100%;
+}
+/* .bggg{
+    background: url(./img/beer-cover.jpg);
+    background-size: cover;
+    height: 70vh;
+    background-position: 50% 50%;
+    width: 100%;
+} */
+.main h5{
+    font-size: 4rcap;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(12, 12, 12);
+}
+.btn1{
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: rgb(248,26,92) ;
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+}
+.tt{
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: rgb(5, 136, 85) ;
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+
+}
+.img-luid{
+    width: 100px;
+    height: 100px;
+}
+.img-luid:hover{
+    color: black;
+    background-color: rgb(171, 41, 41);
+}
+.card img{
+    width: 200px;
+    height: 200px;
+}
+.btn1:hover{
+    background-color: rgb(248,26,92) ;
+    transition: 0.5s;
+}
+.card:hover{
+    box-shadow: -1px -1px 31px -6px rgba(0,0,0,0.75);
+-webkit-box-shadow: -1px -1px 31px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px -1px 31px -6px rgba(0,0,0,0.75);
+transition: 0.5s;
+}
+#hh{
+    background-color: rgb(149, 148, 148);
+    height: 250px;
+    width: 100%;
+
+}
+.job a{
+    padding: 20px;
+}
+#user{
+    height: 50px;
+    width: 60px;
+    margin-left: 20px;
+}
+#user-link:hover{
+    color: rgb(233, 10, 10);
+    box-shadow: 10px 10px 5px lightseagreen;
+
+}
+#tt{
+    margin-right:300px ;
+}
