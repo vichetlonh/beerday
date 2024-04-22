@@ -29,7 +29,7 @@
     <?php include 'components/header.php';?>
     <div class="container p-5" >
         <form action="updatepost.php" method="POST" id="form_up" enctype="multipart/form-data">
-            <h3>Add New Product</h3>
+            <h3>Update Product</h3>
             <div class="form-group">
                 <label for="id">ID</label>
                 <input type="text" class="form-control" id="id" name="id" value="<?php echo $data['id'] ?>">
