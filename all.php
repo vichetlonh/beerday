@@ -66,7 +66,7 @@ $result = $conn->query("SELECT * FROM product");
       <div class="container py-5">
         <div class="row py-5 ">
           <div class="col-lg-5 m-auto text-center">
-            <h1>ទំនិញលក់ដាច់</h1>
+            <h1>ទំនិញទាំងអស់</h1>
             <h6 style="color: red;">ទំនិញ</h6>
           </div>
         </div>
